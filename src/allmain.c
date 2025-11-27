@@ -46,14 +46,14 @@ boolean resuming;
     /* side-effects from the real world */
     flags.moonphase = phase_of_the_moon();
     if (flags.moonphase == FULL_MOON) {
-        You("are lucky!  Full moon tonight.");
+        You("avez de la chance ! Pleine lune ce soir.");
         change_luck(1);
     } else if (flags.moonphase == NEW_MOON) {
-        pline("Be careful!  New moon tonight.");
+        pline("Soyez prudent ! Nouvelle lune ce soir.");
     }
     flags.friday13 = friday_13th();
     if (flags.friday13) {
-        pline("Watch out!  Bad things can happen on Friday the 13th.");
+        pline("Attention ! De mauvaises choses peuvent arriver un vendredi 13.");
         change_luck(-1);
     }
 
@@ -657,7 +657,7 @@ boolean new_game; /* false => restoring an old game */
     /* skip "welcome back" if restoring a doomed character */
     if (!new_game && Upolyd && ugenocided()) {
         /* death via self-genocide is pending */
-        pline("You're back, but you still feel %s inside.", udeadinside());
+        pline("Vous êtes de retour, mais vous vous sentez encore %s à l'intérieur.", udeadinside());
         return;
     }
 
@@ -678,8 +678,8 @@ boolean new_game; /* false => restoring an old game */
                 : currentgend != flags.initgend))
         Sprintf(eos(buf), " %s", genders[currentgend].adj);
 
-    pline(new_game ? "%s %s, welcome to NetHack!  You are a%s %s %s."
-                   : "%s %s, the%s %s %s, welcome back to NetHack!",
+    pline(new_game ? "%s %s, bienvenue dans NetHack ! Vous êtes un%s %s %s."
+                   : "%s %s, le%s %s %s, bon retour dans NetHack !",
           Hello((struct monst *) 0), plname, buf, urace.adj,
           (currentgend && urole.name.f) ? urole.name.f : urole.name.m);
 }

@@ -1,32 +1,32 @@
-Debug-Mode Quick Reference:
+Référence rapide du Mode Debug :
 
-^E  ==  detect secret doors and traps
-^F  ==  map level; reveals traps and secret corridors but not secret doors
-^G  ==  create monster by name or class
-^I  ==  identify items in pack
-^T  ==  do intra-level teleport
-^V  ==  do trans-level teleport; '?' yields menu of special destinations
-^W  ==  make a wish for an item or a trap or a limited subset of terrain
-^X  ==  show status, attributes, and characteristics (extended enlightenment)
+^E  ==  détecter les portes secrètes et pièges
+^F  ==  cartographier le niveau ; révèle les pièges et couloirs secrets mais pas les portes secrètes
+^G  ==  créer un monstre par nom ou classe
+^I  ==  identifier les objets dans le sac
+^T  ==  faire une téléportation intra-niveau
+^V  ==  faire une téléportation trans-niveau ; '?' donne un menu de destinations spéciales
+^W  ==  faire un vœu pour un objet, un piège ou un sous-ensemble limité de terrain
+^X  ==  montrer le statut, attributs et caractéristiques (illumination étendue)
 
-#levelchange    == set hero's experience level
-#lightsources   == show mobile light sources
-#panic          == panic test (warning: current game will be terminated)
-#polyself       == polymorph self
-#seenv          == show seen vectors
-#stats          == show memory statistics
-#terrain        == show current level (more options than in normal play)
-#timeout        == look at timeout queue and hero's timed intrinsics
-#vanquished     == disclose counts of dead monsters sorted in various ways
-#vision         == show vision array
-#wizintrinsic   == set selected intrinsic timeouts
-#wizmakemap     == recreate the current dungeon level
-#wizrumorcheck  == validate first and last rumor for true and false set
-#wizsmell       == smell a monster
-#wizwhere       == show dungeon placement of all special levels
-#wmode          == show wall modes
+#levelchange    == définir le niveau d'expérience du héros
+#lightsources   == montrer les sources de lumière mobiles
+#panic          == test de panique (attention : le jeu en cours sera terminé)
+#polyself       == se polymorphe soi-même
+#seenv          == montrer les vecteurs vus
+#stats          == montrer les statistiques mémoire
+#terrain        == montrer le niveau actuel (plus d'options qu'en jeu normal)
+#timeout        == regarder la file d'attente des délais et les intrinsèques temporisés du héros
+#vanquished     == révéler les comptes de monstres tués triés de diverses façons
+#vision         == montrer le tableau de vision
+#wizintrinsic   == définir les délais d'intrinsèques sélectionnés
+#wizmakemap     == recréer le niveau de donjon actuel
+#wizrumorcheck  == valider la première et dernière rumeur pour les ensembles vrai et faux
+#wizsmell       == sentir un monstre
+#wizwhere       == montrer l'emplacement dans le donjon de tous les niveaux spéciaux
+#wmode          == montrer les modes de mur
 
-Options:
-monpolycontrol  == prompt for new form whenever any monster changes shape
-sanity_check    == evaluate monsters, objects, and map prior to each turn
-wizweight       == augment object descriptions with their objects' weight
+Options :
+monpolycontrol  == demander une nouvelle forme chaque fois qu'un monstre change de forme
+sanity_check    == évaluer les monstres, objets et carte avant chaque tour
+wizweight       == augmenter les descriptions d'objets avec leur poids

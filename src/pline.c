@@ -300,7 +300,7 @@ VA_DECL(const char *, line)
 
     VA_START(line);
     VA_INIT(line, const char *);
-    vpline(YouMessage(tmp, "You ", line), VA_ARGS);
+    vpline(YouMessage(tmp, "Vous ", line), VA_ARGS);
     VA_END();
 }
 
@@ -312,7 +312,7 @@ VA_DECL(const char *, line)
 
     VA_START(line);
     VA_INIT(line, const char *);
-    vpline(YouMessage(tmp, "Your ", line), VA_ARGS);
+    vpline(YouMessage(tmp, "Votre ", line), VA_ARGS);
     VA_END();
 }
 
@@ -325,9 +325,9 @@ VA_DECL(const char *, line)
     VA_START(line);
     VA_INIT(line, const char *);
     if (Unaware)
-        YouPrefix(tmp, "You dream that you feel ", line);
+        YouPrefix(tmp, "Vous rêvez que vous vous sentez ", line);
     else
-        YouPrefix(tmp, "You feel ", line);
+        YouPrefix(tmp, "Vous vous sentez ", line);
     vpline(strcat(tmp, line), VA_ARGS);
     VA_END();
 }
@@ -340,10 +340,14 @@ VA_DECL(const char *, line)
 
     VA_START(line);
     VA_INIT(line, const char *);
-    vpline(YouMessage(tmp, "You can't ", line), VA_ARGS);
+    vpline(YouMessage(tmp, "Vous ne pouvez pas ", line), VA_ARGS);
     VA_END();
 }
 
+/* Note: "Le" is used as default masculine article in French.
+ * A full gender-aware translation would require extensive refactoring
+ * to pass gender information through the message system.
+ */
 /*VARARGS1*/
 void pline_The
 VA_DECL(const char *, line)
@@ -352,7 +356,7 @@ VA_DECL(const char *, line)
 
     VA_START(line);
     VA_INIT(line, const char *);
-    vpline(YouMessage(tmp, "The ", line), VA_ARGS);
+    vpline(YouMessage(tmp, "Le ", line), VA_ARGS);
     VA_END();
 }
 
@@ -364,7 +368,7 @@ VA_DECL(const char *, line)
 
     VA_START(line);
     VA_INIT(line, const char *);
-    vpline(YouMessage(tmp, "There ", line), VA_ARGS);
+    vpline(YouMessage(tmp, "Il y a ", line), VA_ARGS);
     VA_END();
 }
 
@@ -379,11 +383,11 @@ VA_DECL(const char *, line)
     VA_START(line);
     VA_INIT(line, const char *);
     if (Underwater)
-        YouPrefix(tmp, "You barely hear ", line);
+        YouPrefix(tmp, "Vous entendez à peine ", line);
     else if (Unaware)
-        YouPrefix(tmp, "You dream that you hear ", line);
+        YouPrefix(tmp, "Vous rêvez que vous entendez ", line);
     else
-        YouPrefix(tmp, "You hear ", line);  /* Deaf-aware */
+        YouPrefix(tmp, "Vous entendez ", line);  /* Deaf-aware */
     vpline(strcat(tmp, line), VA_ARGS);
     VA_END();
 }
@@ -397,11 +401,11 @@ VA_DECL(const char *, line)
     VA_START(line);
     VA_INIT(line, const char *);
     if (Unaware)
-        YouPrefix(tmp, "You dream that you see ", line);
+        YouPrefix(tmp, "Vous rêvez que vous voyez ", line);
     else if (Blind) /* caller should have caught this... */
-        YouPrefix(tmp, "You sense ", line);
+        YouPrefix(tmp, "Vous sentez ", line);
     else
-        YouPrefix(tmp, "You see ", line);
+        YouPrefix(tmp, "Vous voyez ", line);
     vpline(strcat(tmp, line), VA_ARGS);
     VA_END();
 }

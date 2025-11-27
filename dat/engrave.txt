@@ -1,92 +1,92 @@
 # NetHack 3.6  engrave.txt       $NHDT-Date: 1524689579 2018/04/25 20:52:59 $  $NHDT-Branch: NetHack-3.6.0 $:$NHDT-Revision: 1.2 $
 # Copyright (c) 2015 by Pasi Kallinen
 # NetHack may be freely redistributed.  See license for details.
-# Random engravings on the floor
+# Inscriptions aléatoires sur le sol
 #
 Elbereth
-# trap engravings
-Vlad was here
+# inscriptions de pièges
+Vlad était ici
 ad aerarium
 
-# take-offs and other famous engravings
+# parodies et autres inscriptions célèbres
 Owlbreath
 Galadriel
-Kilroy was here
-Frodo lives
+Kilroy était ici
+Frodon vit
 
-# Journey to the Center of the Earth
+# Voyage au Centre de la Terre
 A.S. ->
 <- A.S.
 # Adventure
-You won't get it up the steps
-# Inferno
+Tu ne le monteras pas par les escaliers
+# L'Enfer
 Lasciate ogni speranza o voi ch'entrate.
-# Prisoner
-Well Come
-# So Long...
-We apologize for the inconvenience.
+# Le Prisonnier
+Bienvenue
+# H2G2
+Nous nous excusons pour le dérangement.
 # Thriller
-See you next Wednesday
+À mercredi prochain
 # Smokey Stover
 notary sojak
 
-For a good time call 8?7-5309
-# Various zoos around the world
-Please don't feed the animals.
-# A palindrome
-Madam, in Eden, I'm Adam.
+Appelez le 8?7-5309 pour vous amuser
+# Divers zoos à travers le monde
+Veuillez ne pas nourrir les animaux.
+# Un palindrome
+Élu par cette crapule
 # Siskel & Ebert
-Two thumbs up!
-# The First C Program
-Hello, World!
+Deux pouces en l'air !
+# Le Premier Programme C
+Bonjour, Monde !
 ^?MAIL
 # AOL
-You've got mail!
+Vous avez du courrier !
 ^.
 # Clueless
-As if!
-# 200x incarnation of Dr.Who
+C'est ça !
+# Incarnation 200x de Dr.Who
 BAD WOLF
 
-# Gang tag
-Arooo!  Werewolves of Yendor!
+# Marque de gang
+Arooo ! Loups-garous de Yendor !
 
-# Strategy and pun
-Dig for Victory here
+# Stratégie et jeu de mots
+Creusez pour la Victoire ici
 
-# Pompeii
-Gaius Julius Primigenius was here.  Why are you late?
+# Pompéi
+Gaius Julius Primigenius était ici. Pourquoi êtes-vous en retard ?
 
-# Helpful guiding
-Don't go this way
-Go left --->
-<--- Go right
-X marks the spot
-X <--- You are here.
-Here be dragons
-Save now, and do your homework!
-There was a hole here.  It's gone now.
-The Vibrating Square
-This is a pit!
-This is not the dungeon you are looking for.
-Watch out, there's a gnome with a wand of death behind that door!
+# Indication utile
+N'allez pas par là
+Allez à gauche --->
+<--- Allez à droite
+X marque l'emplacement
+X <--- Vous êtes ici.
+Ici vivent des dragons
+Sauvegardez maintenant, et faites vos devoirs !
+Il y avait un trou ici. Il est parti maintenant.
+La Case Vibrante
+C'est une fosse !
+Ce n'est pas le donjon que vous cherchez.
+Attention, il y a un gnome avec une baguette de mort derrière cette porte !
 
-# Misc fun
-This square deliberately left blank.
+# Divers amusants
+Cette case est délibérément laissée vide.
 
-# Viking graffiti
-Haermund Hardaxe carved these runes
+# Graffiti viking
+Haermund Hardaxe a gravé ces runes
 
-# Advertising
-Need a light?  Come visit the Minetown branch of Izchak's Lighting Store!
-Snakes on the Astral Plane - Soon in a dungeon near you
-You are the one millionth visitor to this place!  Please wait 200 turns for your wand of wishing.
+# Publicité
+Besoin de lumière ? Venez visiter la succursale de Minetown du Magasin d'Éclairage d'Izchak !
+Des Serpents sur le Plan Astral - Bientôt dans un donjon près de chez vous
+Vous êtes le millionième visiteur de cet endroit ! Veuillez attendre 200 tours pour votre baguette de souhait.
 
 # DnD
-Warning, Exploding runes!
+Attention, Runes Explosives !
 
 # "Whispers Underground" Ben Aaronovitch
-If you can read these words then you are not only a nerd but probably dead.
+Si vous pouvez lire ces mots alors vous êtes non seulement un nerd mais probablement mort.
 
 # Portal
-The cake is a lie
+Le gâteau est un mensonge

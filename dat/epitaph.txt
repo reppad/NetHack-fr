@@ -1,399 +1,399 @@
 # NetHack 3.6  epitaph.txt       $NHDT-Date: 1524689580 2018/04/25 20:53:00 $  $NHDT-Branch: NetHack-3.6.0 $:$NHDT-Revision: 1.3 $
 # Copyright (c) 2015 by Pasi Kallinen
 # NetHack may be freely redistributed.  See license for details.
-# Epitaphs for random headstones
+# Épitaphes pour pierres tombales aléatoires
 #
 #
-Rest in peace
+Repose en paix
 R.I.P.
-Rest In Pieces
-Note -- there are NO valuable items in this grave
-1994-1995. The Longest-Lived Hacker Ever
-The Grave of the Unknown Hacker
-We weren't sure who this was, but we buried him here anyway
-Sparky -- he was a very good dog
-Beware of Electric Third Rail
-Made in Taiwan
-Og friend. Og good dude. Og died. Og now food.
+Repose En Morceaux
+Note -- il n'y a PAS d'objets précieux dans cette tombe
+1994-1995. Le Hacker Le Plus Longtemps Vécu
+La Tombe du Hacker Inconnu
+On n'était pas sûr de qui c'était, mais on l'a enterré quand même
+Sparky -- c'était un très bon chien
+Attention au Troisième Rail Électrique
+Fabriqué à Taïwan
+Og ami. Og bon gars. Og mort. Og maintenant nourriture.
 Beetlejuice Beetlejuice Beetlejuice
-Look out below!
-Please don't dig me up.  I'm perfectly happy down here. -- Resident
-Postman, please note forwarding address: Gehennom, Asmodeus's Fortress, fifth lemure on the left
-Mary had a little lamb/Its fleece was white as snow/When Mary was in trouble/The lamb was first to go
-Be careful, or this could happen to you!
-Soon you'll join this fellow in hell! -- the Wizard of Yendor
-Caution! This grave contains toxic waste
+Attention en dessous !
+S'il vous plaît ne me déterrez pas. Je suis parfaitement heureux ici-bas. -- Résident
+Facteur, veuillez noter l'adresse de réexpédition : Géhenne, Forteresse d'Asmodée, cinquième lémure sur la gauche
+Marie avait un petit agneau/Sa laine était blanche comme neige/Quand Marie eut des ennuis/L'agneau fut le premier à partir
+Faites attention, ou cela pourrait vous arriver !
+Bientôt tu rejoindras ce gars en enfer ! -- le Sorcier de Yendor
+Attention ! Cette tombe contient des déchets toxiques
 Sum quod eris
-Here lies an Atheist, all dressed up and no place to go
-Here lies Ezekiel, age 102.  The good die young.
-Here lies my wife: Here let her lie! Now she's at rest and so am I.
-Here lies Johnny Yeast.  Pardon me for not rising.
-He always lied while on the earth and now he's lying in it
-I made an ash of myself
-Soon ripe.  Soon rotten.  Soon gone.  But not forgotten.
-Here lies the body of Jonathan Blake.  Stepped on the gas instead of the brake.
-Go away!
-Alas fair Death, 'twas missed in life - some peace and quiet from my wife
-Applaud, my friends, the comedy is finished.
-At last... a nice long sleep.
+Ici repose un Athée, bien habillé et nulle part où aller
+Ici repose Ézéchiel, 102 ans. Les bons meurent jeunes.
+Ici repose ma femme : Laissez-la ici ! Maintenant elle est en paix et moi aussi.
+Ici repose Johnny Levure. Pardonnez-moi de ne pas me lever.
+Il a toujours menti sur terre et maintenant il y repose
+J'ai fait des cendres de moi-même
+Tôt mûr. Tôt pourri. Tôt parti. Mais pas oublié.
+Ici repose le corps de Jonathan Blake. A appuyé sur l'accélérateur au lieu du frein.
+Allez-vous-en !
+Hélas belle Mort, ce qui manquait dans la vie - un peu de paix et de calme loin de ma femme
+Applaudissez, mes amis, la comédie est terminée.
+Enfin... un bon long sommeil.
 Audi Partem Alteram
-Basil, assaulted by bears
+Basile, assailli par des ours
 Burninated
-Confusion will be my epitaph
-Do not open until Christmas
-Don't be daft, they couldn't hit an elephant at this dist-
-Don't forget to stop and smell the roses
-Don't let this happen to you!
+La confusion sera mon épitaphe
+Ne pas ouvrir avant Noël
+Ne sois pas bête, ils ne pourraient pas atteindre un éléphant à cette dist-
+N'oubliez pas de vous arrêter pour sentir les roses
+Ne laissez pas cela vous arriver !
 Dulce et decorum est pro patria mori
 Et in Arcadia ego
-Fatty and skinny went to bed.  Fatty rolled over and skinny was dead.  Skinny Smith 1983-2000.
-Finally I am becoming stupider no more
-Follow me to hell
-...for famous men have the whole earth as their memorial
-Game over, man.  Game over.
-Go away!  I'm trying to take a nap in here!  Bloody adventurers...
-Gone fishin'
-Good night, sweet prince: And flights of angels sing thee to thy rest!
-Go Team Ant!
-He farmed his way here
-Here lies a programmer.  Killed by a fatal error.
-Here lies Bob - decided to try an acid blob
-Here lies Dudley, killed by another %&#@#& newt.
-Here lies Gregg, choked on an egg
-Here lies Lies.  It's True.
-Here lies The Lady's maid, died of a Vorpal Blade
-Here lies the left foot of Jack, killed by a land mine.  Let us know if you find any more of him
-He waited too long
-I'd rather be sailing
-If a man's deeds do not outlive him, of what value is a mark in stone?
-I'm gonna make it!
-I took both pills!
-I will survive!
-Killed by a black dragon -- This grave is empty
-Let me out of here!
-Lookin' good, Medusa.
-Mrs. Smith, choked on an apple.  She left behind grieving husband, daughter, and granddaughter.
-Nobody believed her when she said her feet were killing her
-No!  I don't want to see my damn conduct!
-One corpse, sans head
-On the whole, I'd rather be in Minetown
-On vacation
-Oops.
-Out to Lunch
-SOLD
-Someone set us up the bomb!
-Take my stuff, I don't need it anymore
-Taking a year dead for tax reasons
-The reports of my demise are completely accurate
-(This space for sale)
-This was actually just a pit, but since there was a corpse, we filled it
-This way to the crypt
-Tu quoque, Brute?
-VACANCY
-Welcome!
-Wish you were here!
-Yea, it got me too
-You should see the other guy
-...and they made me engrave my own headstone too!
-...but the blood has stopped pumping and I am left to decay...
-<Expletive Deleted>
-A masochist is never satisfied.
-Ach, 'twas a wee monster in the loch
-Adapt.  Enjoy.  Survive.
-Adventure, hah!  Excitement, hah!
-After all, what are friends for...
-After this, nothing will shock me
-After three days, fish and guests stink
-Age and treachery will always overcome youth and skill
-Ageing is not so bad.  The real killer is when you stop.
-Ain't I a stinker?
+Le gros et le maigre allèrent au lit. Le gros roula et le maigre était mort. Le Maigre Smith 1983-2000.
+Enfin je ne deviens plus stupide
+Suis-moi en enfer
+...car les hommes célèbres ont la terre entière comme mémorial
+Game over, mec. Game over.
+Partez ! J'essaie de faire une sieste ici ! Fichus aventuriers...
+Parti pêcher
+Bonne nuit, doux prince : Et que des vols d'anges te chantent pour ton repos !
+Allez l'équipe Fourmi !
+Il a cultivé son chemin jusqu'ici
+Ici repose un programmeur. Tué par une erreur fatale.
+Ici repose Bob - a décidé d'essayer un blob acide
+Ici repose Dudley, tué par un autre %&#@#& triton.
+Ici repose Gregg, étranglé par un œuf
+Ici reposent des Mensonges. C'est Vrai.
+Ici repose la femme de chambre de la Dame, morte d'une Lame Vorpale
+Ici repose le pied gauche de Jacques, tué par une mine. Faites-nous savoir si vous en trouvez d'autres
+Il a trop attendu
+Je préférerais faire de la voile
+Si les actes d'un homme ne lui survivent pas, quelle est la valeur d'une marque dans la pierre ?
+Je vais y arriver !
+J'ai pris les deux pilules !
+Je survivrai !
+Tué par un dragon noir -- Cette tombe est vide
+Laissez-moi sortir d'ici !
+T'as l'air bien, Méduse.
+Mme Smith, étouffée par une pomme. Elle laisse derrière elle un mari, une fille et une petite-fille en deuil.
+Personne ne l'a crue quand elle a dit que ses pieds la tuaient
+Non ! Je ne veux pas voir ma fichue conduite !
+Un cadavre, sans tête
+Dans l'ensemble, je préférerais être à Minetown
+En vacances
+Oups.
+Sorti déjeuner
+VENDU
+Quelqu'un nous a posé la bombe !
+Prenez mes affaires, je n'en ai plus besoin
+Prend une année morte pour des raisons fiscales
+Les rapports de mon décès sont tout à fait exacts
+(Cet espace est à vendre)
+C'était en fait juste une fosse, mais puisqu'il y avait un cadavre, on l'a remplie
+Par ici vers la crypte
+Tu quoque, Brute ?
+DISPONIBLE
+Bienvenue !
+J'aimerais que tu sois ici !
+Oui, ça m'a eu aussi
+Vous devriez voir l'autre gars
+...et ils m'ont aussi fait graver ma propre pierre tombale !
+...mais le sang a cessé de pomper et on me laisse pourrir...
+<Juron Supprimé>
+Un masochiste n'est jamais satisfait.
+Ach, c'était un petit monstre dans le lac
+S'adapter. Apprécier. Survivre.
+L'aventure, hah ! L'excitation, hah !
+Après tout, à quoi servent les amis...
+Après cela, plus rien ne me choquera
+Après trois jours, le poisson et les invités puent
+L'âge et la ruse triompheront toujours de la jeunesse et de la compétence
+Vieillir n'est pas si mal. Le vrai tueur c'est quand on s'arrête.
+Suis-je pas une vraie peste ?
 Algernon
-All else failed...
-All hail RNG
-All right, we'll call it a draw!
-All's well that ends well
-Alone at last!
-Always attack a floating eye from behind!
-Am I having fun yet?
-And I can still crawl, I'm not dead yet!
-And all I wanted was a free lunch
-And all of the signs were right there on your face
-And don't give me that innocent look either!
-And everyone died.  Boo hoo hoo.
-And here I go again...
-And nobody cares until somebody famous dies...
-And so it ends?
-And so... it begins.
-And sometimes the bear eats you.
-And then 'e nailed me 'ead to the floor!
-And they said it couldn't be done!
-And what do I look like?  The living?
-And yes, it was ALL his fault!
-And you said it was pretty here...
-Another lost soul
-Any day above ground is a good day!
-Any more of this and I'll die of a stroke before I'm 30.
-Anybody seen my head?
-Anyone for deathmatch?
-Anything for a change.
-Anything that kills you makes you ... well, dead
-Anything worth doing is worth overdoing.
-Are unicorns supposedly peaceful if you're a virgin?  Hah!
-Are we all being disintegrated, or is it just me?
-At least I'm good at something
-Attempted suicide
+Tout le reste a échoué...
+Gloire au RNG
+D'accord, on dira que c'est match nul !
+Tout est bien qui finit bien
+Enfin seul !
+Toujours attaquer un œil flottant par derrière !
+Est-ce que je m'amuse déjà ?
+Et je peux encore ramper, je ne suis pas encore mort !
+Et tout ce que je voulais c'était un repas gratuit
+Et tous les signes étaient juste là sur ton visage
+Et ne me fais pas cet air innocent non plus !
+Et tout le monde est mort. Bouhou.
+Et me revoilà...
+Et personne ne s'en soucie jusqu'à ce qu'une célébrité meure...
+Et donc ça se termine ?
+Et donc... ça commence.
+Et parfois c'est l'ours qui te mange.
+Et puis il m'a cloué la tête au sol !
+Et ils disaient que c'était impossible !
+Et j'ai l'air de quoi ? D'un vivant ?
+Et oui, c'était TOUT de sa faute !
+Et tu disais que c'était joli ici...
+Une autre âme perdue
+Tout jour au-dessus du sol est un bon jour !
+Encore un peu de ça et je meurs d'un AVC avant mes 30 ans.
+Quelqu'un a vu ma tête ?
+Quelqu'un pour un deathmatch ?
+N'importe quoi pour changer.
+Ce qui vous tue vous rend... eh bien, mort
+Tout ce qui vaut la peine d'être fait vaut la peine d'être fait avec excès.
+Les licornes sont censées être pacifiques si on est vierge ? Hah !
+On est tous en train de se désintégrer, ou c'est juste moi ?
+Au moins je suis bon à quelque chose
+Tentative de suicide
 Auri sacra fames
 Auribus teneo lupum
-Be prepared
-Beauty survives
-Been Here.  Now Gone.  Had a Good Time.
-Been through Hell, eh?  What did you bring me?
-Beg your pardon, didn't recognize you, I've changed a lot.
-Being dead builds character
-Beloved daughter, a treasure, buried here.
-Best friends come and go....  Mine just die.
-Better be dead than a fat slave
-Better luck next time
-Beware of Discordians bearing answers
-Beware the ...
-Bloody Hell...
-Bloody barbarians!
-Blown upward out of sight: He sought the leak by candlelight
-Brains... Brains... Fresh human brains...
-Buried the cat.  Took an hour.  Damn thing kept fighting.
-But I disarmed the trap!
-CONNECT 1964 - NO CARRIER 1994
-Call me if you need my phone number!
-Can YOU fly?
-Can you believe that thing is STILL moving?
-Can you come up with some better ending for this?
-Can you feel anything when I do this?
-Can you give me mouth to mouth, you just took my breath away.
-Can't I just have a LITTLE peril?
-Can't eat, can't sleep, had to bury the husband here.
-Can't you hit me?!
-Chaos, panic and disorder.  My work here is done.
-Check enclosed.
-Check this out!  It's my brain!
-Chivalry is only reasonably dead
-Coffin for sale.  Lifetime guarantee.
-Come Monday, I'll be all right.
-Come and see the violence inherent in the system
-Come back here!  I'll bite your bloody knees off!
-Commodore Business Machines, Inc.  Died for our sins.
-Complain to one who can help you
-Confess my sins to god?  Which one?
-Confusion will be my epitaph
-Cooties?  Ain't no cooties on me!
-Could somebody get this noose off me?
-Could you check again?  My name MUST be there.
-Could you please take a breath mint?
-Couldn't I be sedated for this?
-Courage is looking at your setbacks with serenity
-Cover me, I'm going in!
-Crash course in brain surgery
-Cross my fingers for me.
-Curse god and die
-Cut to fit
+Soyez préparés
+La beauté survit
+Été Ici. Maintenant Parti. A passé un bon moment.
+T'as traversé l'Enfer, hein ? Qu'est-ce que tu m'as rapporté ?
+Pardonnez-moi, je ne vous ai pas reconnu, j'ai beaucoup changé.
+Être mort forge le caractère
+Fille bien-aimée, un trésor, enterrée ici.
+Les meilleurs amis vont et viennent.... Les miens meurent juste.
+Mieux vaut mort qu'esclave gras
+Meilleure chance la prochaine fois
+Méfiez-vous des Discordiens apportant des réponses
+Méfiez-vous du...
+Bon sang...
+Fichus barbares !
+Propulsé hors de vue : Il cherchait la fuite à la bougie
+Des cerveaux... Des cerveaux... Des cerveaux humains frais...
+Enterré le chat. A pris une heure. La fichue bête n'arrêtait pas de se battre.
+Mais j'avais désamorcé le piège !
+CONNEXION 1964 - PORTEUSE PERDUE 1994
+Appelez-moi si vous avez besoin de mon numéro !
+Peux-TU voler ?
+Vous pouvez croire que ce truc bouge ENCORE ?
+Pouvez-vous trouver une meilleure fin pour ça ?
+Tu sens quelque chose quand je fais ça ?
+Peux-tu me faire du bouche à bouche, tu m'as coupé le souffle.
+Je peux pas avoir juste UN PEU de péril ?
+Je ne peux ni manger ni dormir, j'ai dû enterrer le mari ici.
+Tu ne peux pas me toucher ?!
+Chaos, panique et désordre. Mon travail ici est terminé.
+Chèque ci-joint.
+Regardez ça ! C'est mon cerveau !
+La chevalerie n'est que raisonnablement morte
+Cercueil à vendre. Garantie à vie.
+Lundi ça ira mieux.
+Venez voir la violence inhérente au système
+Reviens ici ! Je vais te mordre les genoux !
+Commodore Business Machines, Inc. Mort pour nos péchés.
+Plaignez-vous à quelqu'un qui peut vous aider
+Confesser mes péchés à dieu ? Lequel ?
+La confusion sera mon épitaphe
+Des poux ? Y'a pas de poux sur moi !
+Quelqu'un pourrait-il enlever ce nœud coulant ?
+Pourriez-vous vérifier à nouveau ? Mon nom DOIT y être.
+Pourriez-vous prendre une pastille pour l'haleine ?
+On ne pourrait pas m'anesthésier pour ça ?
+Le courage c'est regarder ses échecs avec sérénité
+Couvrez-moi, j'y vais !
+Cours intensif de chirurgie cérébrale
+Croisez les doigts pour moi.
+Maudir dieu et mourir
+Coupé sur mesure
 De'Ath
-Dead Again?  Pardon me for not getting it right the first time!
-Dead and loving every moment!
-Dear wife of mine.  Died of a broken heart, after I took it out of her.
-Don't tread on me!
-Dragon? What dragon?
-Drawn and quartered
-Either I'm dead or my watch has stopped.
-Eliza -- Was I really alive, or did I just think I was?
+Mort Encore ? Pardonnez-moi de ne pas l'avoir réussi la première fois !
+Mort et adorant chaque instant !
+Ma chère femme. Morte du cœur brisé, après que je l'ai arraché.
+Ne me marchez pas dessus !
+Dragon ? Quel dragon ?
+Écartelé
+Soit je suis mort, soit ma montre s'est arrêtée.
+Eliza -- Étais-je vraiment vivante, ou je le pensais juste ?
 Elvis
-Enter not into the path of the wicked
-Eris?  I don't need Eris
-Eternal Damnation, Come and stay a long while!
-Even The Dead pay taxes (and they aren't Grateful).
-Even a tomb stone will say good things when you're down!
-Ever notice that live is evil backwards?
-Every day is starting to look like Monday
-Every day, in every way, I am getting better and better.
-Every survival kit should include a sense of humor
-Evil I did dwell;  lewd did I live
+N'entrez pas dans le chemin des méchants
+Eris ? Je n'ai pas besoin d'Eris
+Damnation Éternelle, Venez rester longtemps !
+Même Les Morts paient des impôts (et ils ne sont pas Reconnaissants).
+Même une pierre tombale dira de bonnes choses quand vous êtes en bas !
+Vous avez remarqué que vivre à l'envers c'est revive ?
+Chaque jour commence à ressembler à lundi
+Chaque jour, de chaque façon, je deviens meilleur.
+Chaque kit de survie devrait inclure un sens de l'humour
+J'ai mal fait ; j'ai vécu mal
 Ex post fucto
-Excellent day to have a rotten day.
-Excuse me for not standing up.
-Experience isn't everything.  First, you've got to survive.
-First shalt thou pull out the Holy Pin
-For a Breath, I Tarry...
-For recreational use only.
-For sale: One soul, slightly used.  Asking for 3 wishes.
-For some moments in life, there are no words.
-Forget Disney World, I'm going to Hell!
-Forget about the dog, Beware of my wife.
-Funeral - Real fun.
-Gawd, it's depressing in here, isn't it?
-Genuine Exploding Gravestone.  (c)Acme Gravestones Inc.
-Get back here!  I'm not finished yet...
-Go ahead, I dare you to!
-Go ahead, it's either you or him.
-Goldilocks -- This casket is just right
-Gone But Not Forgotten
-Gone Underground For Good
-Gone away owin' more than he could pay.
-Gone, but not forgiven
-Got a life.  Didn't know what to do with it.
-Grave?  But I was cremated!
-Greetings from Hell - Wish you were here.
-HELP! It's dark in here....  Oh, my eyes are closed - sorry
-Ha! I NEVER pay income tax!
-Have you come to raise the dead?
-Having a good time can be deadly.
-Having a great time.  Where am I exactly??
-He died of the flux.
-He died today....  May we rest in peace!
-He got the upside, I got the downside.
-He lost his face when he was beheaded.
-He missed me first.
-He's not dead, he just smells that way.
-Help! I've fallen and I can't get up!
-Help, I can't wake up!
-Here lies Pinocchio
-Here lies the body of John Round.  Lost at sea and never found.
-Here there be dragons
-Hey, I didn't write this stuff!
+Excellente journée pour passer une mauvaise journée.
+Excusez-moi de ne pas me lever.
+L'expérience n'est pas tout. D'abord, il faut survivre.
+D'abord tu retires la Sainte Goupille
+Pour un Souffle, je m'Attarde...
+À usage récréatif uniquement.
+À vendre : Une âme, légèrement usagée. Demande 3 vœux.
+Pour certains moments de la vie, il n'y a pas de mots.
+Oubliez Disney World, je vais en Enfer !
+Oubliez le chien, Méfiez-vous de ma femme.
+Funérailles - Vrai fun.
+Mon Dieu, c'est déprimant ici, non ?
+Vraie Pierre Tombale Explosive. (c)Acme Gravestones Inc.
+Revenez ici ! Je n'ai pas fini...
+Vas-y, je t'en défie !
+Vas-y, c'est lui ou toi.
+Boucle d'Or -- Ce cercueil est juste comme il faut
+Parti Mais Pas Oublié
+Parti Sous Terre Pour De Bon
+Parti en devant plus qu'il ne pouvait payer.
+Parti, mais pas pardonné
+A eu une vie. Ne savait pas quoi en faire.
+Tombe ? Mais j'ai été incinéré !
+Salutations de l'Enfer - J'aimerais que tu sois ici.
+À L'AIDE ! Il fait noir ici.... Oh, mes yeux sont fermés - désolé
+Ha ! Je ne paye JAMAIS d'impôts !
+Êtes-vous venu ressusciter les morts ?
+S'amuser peut être mortel.
+Je m'amuse bien. Où suis-je exactement ??
+Il est mort de la flux.
+Il est mort aujourd'hui.... Qu'on repose en paix !
+Il a eu le dessus, j'ai eu le dessous.
+Il a perdu la face quand on l'a décapité.
+Il m'a raté en premier.
+Il n'est pas mort, il sent juste comme ça.
+À l'aide ! Je suis tombé et je ne peux pas me relever !
+À l'aide, je n'arrive pas à me réveiller !
+Ici repose Pinocchio
+Ici repose le corps de John Round. Perdu en mer et jamais retrouvé.
+Ici vivent des dragons
+Hé, je n'ai pas écrit ce truc !
 Hodie mihi, cras tibi
-Hold my calls
-Home Sweet Hell
-Humpty Dumpty, a Bad Egg.  He was pushed off the wall.
-I KNEW this would happen if I lived long enough.
-I TOLD you I was sick!
-I ain't broke but I am badly bent.
-I ain't old.  I'm chronologically advantaged.
-I am NOT a vampire.  I just like to bite..nibble, really!
-I am here.  Wish you were fine.
-I am not dead yet, but watch for further reports.
-I believe them bones are me.
-I broke his brain.
-I can feel it.  My mind.  It's going.  I can feel it.
-I can't go to Hell.  They're afraid I'm gonna take over!
-I can't go to hell, they don't want me.
-I didn't believe in reincarnation the last time, either.
-I didn't mean it when I said 'Bite me'
-I died laughing
-I disbelieved in reincarnation in my last life, too.
-I hacked myself to death
-I have all the time in the world
-I knew I'd find a use for this gravestone!
-I know my mind.  And it's around here someplace.
-I lied!  I'll never be alright!
-I like it better in the dark.
-I like to be here when I can.
-I may rise but I refuse to shine.
-I never get any either.
-I said hit HIM with the fireball, not me!
-I told you I would never say goodbye.
-I used to be amusing.  Now I'm just disgusting.
-I used up all my sick days, so now I'm calling in dead.
-I was killed by <illegible scrawl>
-I was somebody.  Who, is no business of yours.
-I will not go quietly.
-I'd give you a piece of my mind... but I can't find it.
-I'd rather be breathing
-I'll be back!
-I'll be mellow when I'm dead.  For now, let's PARTY!
-I'm doing this only for tax purposes.
-I'm not afraid of Death!  What's he gonna do? Kill me?
-I'm not getting enough money, so I'm not going to engrave anything useful here.
-I'm not saying anything.
-I'm weeth stupeed --->
-If you thought you had problems...
-Ignorance kills daily.
-Ignore me... I'm just here for my looks!
-Ilene Toofar -- Fell off a cliff
-Is that all?
-Is there life before Death?
-Is this a joke, or a grave matter?
-It happens sometimes.  People just explode.
-It must be Thursday.  I never could get the hang of Thursdays.
-It wasn't a fair fight
-It wasn't so easy.
-It's Loot, Pillage and THEN Burn...
-Just doing my job here
-Killed by diarrhea of mouth and constipation of brain.
-Let her RIP
-Let it be; I am dead.
-Let's play Hide the Corpse
-Life is NOT a dream
-Madge Ination -- It wasn't all in my head
-Meet me in Heaven
-Move on, there's nothing to see here.
-Mr. Flintstone -- Yabba-dabba-done
-My heart is not in this
-No one ever died from it
-No, you want room 12A, next door.
-Nope.  No trap on that chest.  I swear.
-Not again!
-Not every soil can bear all things
-Now I have a life
-Now I lay thee down to sleep... wanna join me?
-OK, here is a question: Where ARE your tanlines?
+Gardez mes appels
+Doux Enfer Foyer
+Humpty Dumpty, un Mauvais Œuf. On l'a poussé du mur.
+Je SAVAIS que ça arriverait si je vivais assez longtemps.
+Je vous l'AVAIS dit que j'étais malade !
+Je ne suis pas cassé mais bien tordu.
+Je ne suis pas vieux. Je suis chronologiquement avantagé.
+Je ne suis PAS un vampire. J'aime juste mordre... grignoter, vraiment !
+Je suis ici. J'espère que tu vas bien.
+Je ne suis pas encore mort, mais attendez d'autres nouvelles.
+Je crois que ces os sont moi.
+Je lui ai cassé le cerveau.
+Je le sens. Mon esprit. Il s'en va. Je le sens.
+Je ne peux pas aller en Enfer. Ils ont peur que je prenne le contrôle !
+Je ne peux pas aller en enfer, ils ne veulent pas de moi.
+Je ne croyais pas en la réincarnation la dernière fois non plus.
+Je ne le pensais pas quand j'ai dit 'Mords-moi'
+Je suis mort de rire
+Je ne croyais pas en la réincarnation dans ma vie passée non plus.
+Je me suis hacké à mort
+J'ai tout le temps du monde
+Je savais que je trouverais un usage pour cette pierre tombale !
+Je connais mon esprit. Et il est quelque part par ici.
+J'ai menti ! Je n'irai jamais mieux !
+Je préfère le noir.
+J'aime être ici quand je peux.
+Je peux me lever mais je refuse de briller.
+Je n'en ai jamais non plus.
+J'ai dit de LUI lancer la boule de feu, pas moi !
+Je t'avais dit que je ne dirais jamais au revoir.
+J'étais amusant. Maintenant je suis juste dégoûtant.
+J'ai épuisé tous mes jours de maladie, alors maintenant j'appelle mort.
+J'ai été tué par <gribouillage illisible>
+J'étais quelqu'un. Qui, ne vous regarde pas.
+Je ne partirai pas tranquillement.
+Je vous donnerais un morceau de mon esprit... mais je n'arrive pas à le trouver.
+Je préférerais respirer
+Je reviendrai !
+Je serai calme quand je serai mort. Pour l'instant, FAISONS LA FÊTE !
+Je fais ça uniquement pour les impôts.
+Je n'ai pas peur de la Mort ! Qu'est-ce qu'il va faire ? Me tuer ?
+Je ne suis pas assez payé, donc je ne vais rien graver d'utile ici.
+Je ne dis rien.
+Je suis avec stupide --->
+Si vous pensiez avoir des problèmes...
+L'ignorance tue quotidiennement.
+Ignorez-moi... Je suis juste là pour mon apparence !
+Irène Tropeloin -- Tombée d'une falaise
+C'est tout ?
+Y a-t-il une vie avant la Mort ?
+C'est une blague, ou une affaire grave ?
+Ça arrive parfois. Les gens explosent.
+Ça doit être jeudi. Je n'ai jamais pu m'y faire au jeudi.
+Ce n'était pas un combat équitable
+Ce n'était pas si facile.
+C'est Piller, Voler et ENSUITE Brûler...
+Je fais juste mon travail ici
+Tué par diarrhée verbale et constipation cérébrale.
+Qu'elle RIPose
+Laissez ; je suis mort.
+Jouons à Cache le Cadavre
+La vie n'est PAS un rêve
+Madge Ination -- Ce n'était pas que dans ma tête
+Retrouvez-moi au Paradis
+Circulez, il n'y a rien à voir ici.
+M. Caillou -- Yabba-dabba-fini
+Mon cœur n'y est pas
+Personne n'en est jamais mort
+Non, vous voulez la chambre 12A, à côté.
+Non. Pas de piège sur ce coffre. Je le jure.
+Pas encore !
+Toute terre ne peut pas tout porter
+Maintenant j'ai une vie
+Maintenant je te couche pour dormir... tu veux me rejoindre ?
+OK, voici une question : OÙ sont tes marques de bronzage ?
 Obesa Cantavit
-Oh! An untimely death.
-Oh, by the way, how was my funeral?
-"Oh, honey... I missed you!" she said, and fired again.
-Ok, so the light does go off.  Now let me out of here.
-One stone brain
-Ooh! Somebody STOP me!
-Oops!
-Out for the night.  Leave a message.
-Ow!  Do that again!
-Pardon my dust.
-Part of me still works.
-Please, not in front of those orcs!
-Prepare to meet me in Heaven
-R2D2 -- Rest, Tin Piece
-Relax.  Nothing ever happens on the first level.
+Oh ! Une mort prématurée.
+Oh, au fait, comment c'était mes funérailles ?
+"Oh, chéri... Tu m'as manqué !" dit-elle, et tira à nouveau.
+Ok, donc la lumière s'éteint bien. Maintenant laissez-moi sortir.
+Un cerveau de pierre
+Ooh ! Que quelqu'un m'ARRÊTE !
+Oups !
+Sorti pour la nuit. Laissez un message.
+Aïe ! Refais ça !
+Pardonnez ma poussière.
+Une partie de moi fonctionne encore.
+S'il vous plaît, pas devant ces orcs !
+Préparez-vous à me rencontrer au Paradis
+R2D2 -- Repose, Bout de Fer
+Relaxe. Il ne se passe jamais rien au premier niveau.
 Res omnia mea culpa est
-Rest In Pieces
-Rest, rest, perturbed spirit.
+Repose En Morceaux
+Repose, repose, esprit troublé.
 Rip Torn
-She always said her feet were killing her but nobody believed her.
-She died of a chest cold.
-So let it be written, so let it be done!
-So then I says, How do I know you're the real angel of death?
-Some patients insist on dying.
-Some people have it dead easy, don't they?
-Some things are better left buried.
-Sure, trust me, I'm a lawyer...
-Thank God I wore my corset, because I think my sides have split.
-That is all
-The Gods DO have a sense of humor: I'm living proof!
-The frog's dead.  He Kermitted suicide.
-This dungeon is a pushover
-This elevator doesn't go to Heaven
-This gravestone is shareware.  To register, please send me 10 zorkmids
-This gravestone provided by The Yendorian Grave Services Inc.
-This is not an important part of my life.
-This one's on me.
-This side up
-Tim Burr -- Smashed by a tree
-Tone it down a bit, I'm trying to get some rest here.
-Virtually Alive
-We Will Meet Again.
-Weep not, he is at rest
-Welcome to Dante's.  What level please?
-Well, at least they listened to my sermon...
-Went to be an angel.
-What are you doing over there?
-What are you smiling at?
-What can you say, Death's got appeal...!
-What health care?
-What pit?
-When the gods want to punish you, they answer your prayers.
-Where e'er you be let your wind go free.  Keeping it in was the death of me!
-Where's my refund?
-Will let you know for sure in a day or two...
-Wizards are wimps
-Worms at work, do not disturb!
-Would you mind moving a bit?  I'm short of breath down here.
-Would you quit being evil over my shoulder?
-Ya really had me going baby, but now I'm gone.
-Yes Dear, just a few more minutes...
-You said it wasn't poisonous!
-You set my heart aflame.  You gave me heartburn.
+Elle a toujours dit que ses pieds la tuaient mais personne ne la croyait.
+Elle est morte d'un rhume de poitrine.
+Ainsi soit-il écrit, ainsi soit-il fait !
+Alors je dis, Comment je sais que t'es le vrai ange de la mort ?
+Certains patients insistent pour mourir.
+Certains l'ont facile, non ?
+Certaines choses feraient mieux de rester enterrées.
+Bien sûr, faites-moi confiance, je suis avocat...
+Dieu merci j'ai mis mon corset, parce que je crois que mes côtés se sont fendus.
+C'est tout
+Les Dieux ONT le sens de l'humour : J'en suis la preuve vivante !
+La grenouille est morte. Elle s'est Kermittée.
+Ce donjon est un jeu d'enfant
+Cet ascenseur ne va pas au Paradis
+Cette pierre tombale est shareware. Pour enregistrer, envoyez-moi 10 zorkmids
+Cette pierre tombale fournie par Les Services Funéraires Yendoriens Inc.
+Ce n'est pas une partie importante de ma vie.
+C'est ma tournée.
+Ce côté vers le haut
+Tim Bûche -- Écrasé par un arbre
+Baissez d'un ton, j'essaie de me reposer ici.
+Virtuellement Vivant
+Nous Nous Reverrons.
+Ne pleurez pas, il est en paix
+Bienvenue chez Dante. Quel niveau s'il vous plaît ?
+Eh bien, au moins ils ont écouté mon sermon...
+Parti être un ange.
+Qu'est-ce que tu fais là-bas ?
+Pourquoi tu souris ?
+Que dire, la Mort a du charme... !
+Quelle couverture santé ?
+Quelle fosse ?
+Quand les dieux veulent vous punir, ils exaucent vos prières.
+Où que tu sois laisse aller ton vent. Le garder fut ma mort !
+Où est mon remboursement ?
+Je vous ferai savoir avec certitude d'ici un jour ou deux...
+Les sorciers sont des mauviettes
+Vers au travail, ne pas déranger !
+Vous pourriez vous pousser un peu ? Je manque d'air ici-bas.
+Tu veux bien arrêter d'être maléfique par-dessus mon épaule ?
+Tu m'as vraiment eu bébé, mais maintenant je suis parti.
+Oui Chérie, encore quelques minutes...
+Tu as dit que ce n'était pas empoisonné !
+Tu as enflammé mon cœur. Tu m'as donné des brûlures d'estomac.

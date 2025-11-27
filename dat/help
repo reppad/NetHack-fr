@@ -61,7 +61,7 @@ b j n   1 2 3           g<dir>:   courir dans la direction <dir> jusqu'à ce que
                         G<dir>,   pareil, sauf qu'un couloir qui bifurque n'est
  <  monter              ^<dir>:     pas considéré comme intéressant (le ^ signifie
                                     ici la touche Contrôle, pas un accent circonflexe)
- >  descendre           m<dir>:   se déplacer sans ramasser d'objets
+ >  descendre           m<dir>:   se déplacer sans ramasser d'objets ni combattre
                         F<dir>:   combattre même si vous ne sentez pas de monstre
                 Si l'option number_pad est activée, les touches numériques
                 déplacent à la place.

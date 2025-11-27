@@ -344,6 +344,10 @@ VA_DECL(const char *, line)
     VA_END();
 }
 
+/* Note: "Le" is used as default masculine article in French.
+ * A full gender-aware translation would require extensive refactoring
+ * to pass gender information through the message system.
+ */
 /*VARARGS1*/
 void pline_The
 VA_DECL(const char *, line)
